@@ -1,15 +1,24 @@
 import styled from "styled-components";
 
 const ChangePassword = styled.a`
+margin-left:  4rem;
+
+/* display: flex;
+flex-direction: end;
+justify-content: space-between;
+align-items: end; */
+
+/* padding: 0;
+margin: 0;
 
 color: #F78719;
 background: none;
 cursor: pointer;
 
-padding: 0.5rem;
+
 
 color: var(--Secondary---1, #F78719);
-text-align: right;
+text-align: right; */
 
 /* Body Light - Regular - 18 */
 font-family: Poppins;

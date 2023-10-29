@@ -6,7 +6,7 @@ const Checks = styled.div`
   align-items: center;
   padding: 0.2rem 0;
 
-  a {
+  a{
     color: var(--Secondary---1, #f78719);
     font-family: Poppins;
     font-weight: 400;

@@ -25,5 +25,6 @@ background: none;
 `;
 
 export const CheckboxLabel = styled.label`
+display: flex;
 font-size:  16px;
 `;
